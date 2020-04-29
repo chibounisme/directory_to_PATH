@@ -1,5 +1,5 @@
 # directory_to_PATH
-easily add any folder path to your user's "PATH" envrionment variable.
+easily add any folder path to your user's __PATH__ envrionment variable.
 
 ![Context Menu Example](./context_menu.jpg)
 
