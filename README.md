@@ -1,5 +1,5 @@
 # directory_to_PATH
-easily add any folder path to your user's __PATH__ envrionment variable.
+easily add any folder path to your user's __PATH__ envrionment variable on the Windows Operating System (Tested and working on Windows 10).
 
 ![Context Menu Example](./context_menu.jpg)
 
