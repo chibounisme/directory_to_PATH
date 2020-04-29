@@ -1,6 +1,8 @@
 # directory_to_PATH
 easily add any folder path to your user's "PATH" envrionment variable.
 
+![Context Menu Example](./context_menu.jpg)
+
 Using a simple PowerShell command, you'll be able to able to easily append a directory full path to the PATH environment variable of the current user.
 
 To activite this function, simply execute the __*add_shortcut.reg*__ file and an entry marked __*"Add folder to %PATH%"*__ will be added in the context menu of any folder (Conext menu appear when right-clicking on an object).
